@@ -1,0 +1,8 @@
+{
+  "name": "Andre Dinh Portfolio",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "short_name": "Andre Dinh Portfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
+}
